@@ -3,8 +3,6 @@
 <!--
 **NidiaMacedo/NidiaMacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I am currently working in the production area of ​​the association of condominium owners
 - 🌱 I am currently learning HTML, CSS, JAVASCRIP at Tecnolochicas PRO
 - 👯 I am looking to collaborate in the Technology Industry as a web developer
